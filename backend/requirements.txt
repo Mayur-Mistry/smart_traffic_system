@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+opencv-python
+torch
+torchvision
+ultralytics
+python-dotenv
+websockets
+psycopg2-binary
+redis
+pydantic
